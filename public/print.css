@@ -1,0 +1,31 @@
+.table{
+    /*font-size: x-small !important;*/
+}
+
+.force_print .bg-brown{
+    background-color: #795548 !important;
+    color: #ffffff !important;
+}
+
+.force_print .bg-info{
+    background-color: #00BCD4 !important;
+    color: #ffffff !important;
+}
+
+.force_print .bg-violet{
+    background-color: #9C27B0 !important;
+    color: #ffffff !important;
+}
+
+.force_print .bg-success{
+    background-color: #4CAF50 !important;
+    color: #ffffff !important;
+}
+
+.force_print h4{
+    color: #ffffff !important;
+}
+
+.force_print h5{
+    color: #ffffff !important;
+}
